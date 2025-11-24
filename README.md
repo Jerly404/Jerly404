@@ -2,105 +2,44 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jerly404.jerly404&left_color=hotpink&right_color=black"/>
-</div>
+<h1 align="center">こんにちは 👋、 Jerly です</h1>
+<h3 align="center">「プログラミングとは、知っていることではなく、発見できることにある。」 — クリス・パイン</h3>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerly404&label=Profile%20views&color=0e75b6&style=flat" alt="jerly404" /> </p>
 
-<h1 align="center">
-  <span style="color:#ff69b4;font-style:italic;font-weight:bold;">
-    こんにちは — I am Jerly 😎
-  </span>
-</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerly404" alt="jerly404" /></a> </p>
 
-<h3 align="center">
-  <span style="color:#ff2dbf;">
-    Software & Systems Engineering Student — Perú 🇵🇪
-  </span>
-</h3>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h4 align="center">
-  <span style="color:#ff77ff;">
-    Linux · Frontend · Backend · Cybersecurity · Networking
-  </span>
-</h4>
+- 🔭 I’m currently working on **現在、学習中です。**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- 🌱 I’m currently learning **現在、フロントエンドとバックエンドのスキルを伸ばしています。**
 
-## <span style="color:#ff4ecb;">👨🏻‍💻 About Me</span>
-<span style="color:#ff99dd;">
-Systems engineering student with strong experience in Frontend + Backend development, networking, Linux systems, and high–performance clean code.
-</span>
+- 👯 I’m looking to collaborate on **オープンソースやチーム開発に興味があります。**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-- 🖥️ <span style="color:#ff4ecb;">Frontend & UI building (Angular & React)</span>  
-- ⚙️ <span style="color:#ff4ecb;">Backend architecture & APIs</span>  
-- 🔐 <span style="color:#ff4ecb;">Cybersecurity & networking interest</span>  
-- 🐧 <span style="color:#ff4ecb;">Daily Linux user (Arch BTW 😏)</span>
+- 🤝 I’m looking for help with **プロジェクトでの経験や知識を共有していただける方を探しています。**
 
-══════════════════════════════════════ ✦
+- 👨‍💻 All of my projects are available at [今は秘密です… 😎](今は秘密です… 😎)
 
-## <span style="color:#ff4ecb;">🧠 Technical Skills</span>
+- 📝 I regularly write articles on [Linuxや開発ツールについて書いています。](Linuxや開発ツールについて書いています。)
 
->===========================<
-### <span style="color:#ff94da;">🖥️ Frontend</span>
-<span style="color:#ffc7f2;">
-Angular · React · TypeScript · JavaScript · Tailwind · HTML · CSS · UI/UX fundamentals
-</span>
+- 💬 Ask me about **一緒にコードについて語りましょう！**
 
->===========================<
-### <span style="color:#ff94da;">🛠 Backend</span>
-<span style="color:#ffc7f2;">
-Spring Boot · Node.js · Express · Python · Go · C# (.NET) · Lua
-</span>
+- 📫 How to reach me **himer.condor@gmail.com**
 
->===========================<
-### <span style="color:#ff94da;">🗄 Databases</span>
-<span style="color:#ffc7f2;">
-MySQL · MariaDB · SQL Server · PostgreSQL · SQLite
-</span>
+- ⚡ Fun fact **アニメを見ながらプログラミングするのが好きです。**
 
->===========================<
-### <span style="color:#ff94da;">🧩 Networking / CCNA</span>
-<span style="color:#ffc7f2%;">
-VLAN · Subnetting · Routing · Switching · TCP/IP · OSI Model · ACLs
-</span>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
->===========================<
-### <span style="color:#ff94da;">🐧 Linux / Terminal</span>
-<span style="color:#ffc7f2;">
-Arch Linux · Ubuntu · bash · zsh · scripting · Neovim · Tmux
-</span>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
->===========================<
-### <span style="color:#ff94da;">🧪 DevOps / Infra</span>
-<span style="color:#ffc7f2;">
-Docker · Kubernetes · CI/CD · Git · Github · SSH · Nginx
-</span>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerly404&show_icons=true&locale=en&layout=compact" alt="jerly404" /></p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerly404&show_icons=true&locale=en" alt="jerly404" /></p>
 
-## <span style="color:#ff4ecb;">🛠 Technologies — icons</span>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerly404&" alt="jerly404" /></p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,neovim,arch,angular,react,ts,js,html,css,tailwind,nodejs,py,go,dotnet,java,spring,mysql,postgres,redis,docker,kubernetes,git,github&theme=light" height="90"/>
-</div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## <span style="color:#ff4ecb;">📫 Contact</span>
-
-<span style="color:#ffc7f2;">
-Email: himer.condor@gmail.com
-</span>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<div align="center">
-  <h3>
-    <span style="color:#ff69b4;font-style:italic;">
-      Jerly404
-    </span>
-  </h3>
-</div>
