@@ -1,78 +1,180 @@
-<div align="center">
+# 🌸✨ Project: Neon Sakura ✨🌸
+*Beautiful code is art.*
 
-# 👋 Hola, soy Jerly
-
-### Estudiante de Ingeniería de Sistemas  
-📍 Perú | 🧠 En crecimiento constante | 🧑‍💻 Tech & Linux Enthusiast
-
-</div>
+This project merges modern software technologies with a futuristic neon–pink Japanese aesthetic — cyber–Tokyo vibes, high–performance backend, and visually stunning UI.
 
 ---
 
-## 🧍‍♂️ Sobre mí
+## 🎨 Visual style & Branding
 
-Soy estudiante de Ingeniería de Sistemas con interés en desarrollo de software, redes, Linux y seguridad informática. Me considero una persona autodidacta, curiosa, con hambre de aprendizaje y una mentalidad orientada a mejorar cada día.
+### 🎀 Neon-Pink Palette  
+- `#FF4DD8` — Neon Sakura Pink  
+- `#FF91F7` — Soft Neon Pink  
+- `#0A0014` — Tokyo Midnight Background  
+- `#12F7FF` — Electric Cyan  
+- `#FFE4FA` — Pale Sakura Glow
 
-Me gusta aprender nuevas tecnologías, entender cómo funcionan las cosas por dentro y desarrollar soluciones eficientes.
-
----
-
-## 🧠 Intereses Tecnológicos
-
-- 🐧 Linux / Terminal / Customización
-- 🧩 Desarrollo de software
-- 🛜 Redes y fundamentos CCNA
-- 🔐 Cybersecurity & hacking ético
-- 🔧 Scripts y herramientas CLI
-- 🌐 Backend y manejo de servidores
+### ✍️ Typography (Japanese cursive inspired)  
+- Noto Sans JP  
+- Zen Kurenaido  
+- Kaushan Script  
+- Allura  
 
 ---
 
-## 🧰 Habilidades y herramientas
+## 🏗️ Architecture Overview
 
-| Área | Tecnologías |
-|------|-------------|
-| Lenguajes | C, C++, Python, Bash, JavaScript *(si quieres, puedo agregar más)* |
-| Sistemas Operativos | Arch Linux, Ubuntu, Windows |
-| Control de versiones | Git, GitHub |
-| Redes | Subnetting, VLAN, TCP/IP, fundamentos CCNA |
-| Terminal | zsh / bash, scripting básico |
-| Otros | manejo de entornos, curiosidad por aprender, pensamiento analítico |
-
-> Si quieres puedo personalizar esta sección con exactitud según tus skills reales.
+**Total Stack**  
+✔ Frontend: Angular + React  
+✔ Backend: C# (.NET) + Go + Node  
+✔ Database: MySQL  
+✔ Optional: PostgreSQL  
+✔ Mobile: Capacitor / Ionic  
+✔ API: REST + JWT  
+✔ Deployment: Docker + Nginx  
 
 ---
 
-## 💼 Filosofía personal
+## 👨🏻‍💻 Known Technologies & Skills
 
-> "No intento ser perfecto, intento ser mejor que ayer."
-
-Creo en la disciplina, el aprendizaje constante y la exploración de nuevos campos tecnológicos. Mi meta es crecer profesionalmente y convertirme en un ingeniero sólido con experiencia real en el mundo del software y la infraestructura.
-
----
-
-## 🎼 Lo que disfruto fuera de lo técnico
-
-- 🎮 videojuegos  
-- 🧩 resolver problemas  
-- 🎧 escuchar música  
-- 🎥 ver anime o series  
-- 🔍 investigar cosas por curiosidad
+| Area | Skill | Level |
+|------|-------|-------|
+| Angular | CLI, Routing, RxJS | 🔥🔥🔥 |
+| React | Hooks, Context | 🔥🔥 |
+| Go | APIs & concurrency | 🔥🔥 |
+| C# | Entity Framework, LINQ | 🔥🔥🔥 |
+| Lua | scripting | 🔥🔥 |
+| MySQL | schemas, joins | 🔥🔥🔥 |
+| Linux/Bash | admin | 🔥🔥🔥 |
 
 ---
 
-## 📫 Contacto
+## 📂 Repository Structure
 
-Si quieres hablar conmigo, colaborar o simplemente conversar sobre tecnología:
+/project-neon-sakura
+├─ frontend-angular/
+├─ frontend-react/
+├─ backend-dotnet/
+├─ backend-go/
+├─ db-mysql/
+├─ scripts/
+├─ docs/
+└─ README.md
 
 
 ---
 
-<div align="center">
+## 🚀 Running the project
 
-### 🙌 Gracias por visitar mi perfil
+### Backend (.NET)
+```bash
+cd backend-dotnet
+dotnet restore
+dotnet run
 
-⭐ Si lees esto, te deseo un buen día y mucho éxito en tu camino 💪  
+Backend (Go)
 
-</div>
+cd backend-go
+go run main.go
+
+Frontend (Angular)
+
+cd frontend-angular
+npm install
+ng serve -o
+
+Frontend (React)
+
+cd frontend-react
+npm install
+npm start
+
+Database (MySQL)
+
+mysql -u root -p  
+source schema.sql;
+
+🧠 Features
+
+    JWT authentication
+
+    User roles & permissions
+
+    Full CRUD
+
+    Responsive UI
+
+    MySQL persistence
+
+    Cyber–Japan Neon theme
+
+    Ready for Docker deployment
+
+🧩 Future Roadmap
+
+    Multi-language support JP / EN / ES
+
+    Internal chat system
+
+    WebSockets
+
+    Monitoring & logging
+
+    Dynamic neon/dark mode
+
+    AI form-autofill features
+
+🐉 Japanese Aesthetic Quotes
+
+    「桜の下でコードを書こう」
+    Write code beneath the cherry blossoms.
+
+    「静けさの中に光る力」
+    There is power in quiet light.
+
+    「我々は未来を開発している」
+    We are developing the future.
+
+❤️ Author
+
+Created with passion, insomnia, caffeine, and cyberpunk inspiration.
+
+
+---
+
+# ✅ 2) How to insert images in a README
+
+## 📌 Method A: Using direct URLs (recommended)
+Example:
+
+```md
+![Tokyo Neon](https://i.imgur.com/example.png)
+
+Works with:
+
+    GitHub
+
+    Gitea
+
+    Gitlab
+
+    VSCode preview
+
+📌 Method B: Local images in the repo
+
+Example:
+
+/imgs
+   tokyo.png
+   ui.png
+   logo.jpg
+
+Then in README:
+
+![UI Screenshot](./imgs/ui.png)
+
+GitHub will display them correctly.
+📌 Method C: Using HTML for advanced control
+
+<img src="./imgs/ui.png" width="400px" style="border-radius:10px;">
 
