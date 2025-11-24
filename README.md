@@ -70,23 +70,6 @@ Docker · Kubernetes · CI/CD · Git · Github · SSH · Nginx
 
 ---
 
-## 📊 My Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jerly404&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
----
-
-## 🕹 Contribution Game (PACMAN 😎)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
----
 
 ## 📫 Contact
 
@@ -96,6 +79,6 @@ Email: himer.condor@gmail.com
 ---
 
 <div align="center">
-  <h3>Minimal. Technical. Pink–Neon. Masculine. — Jerly 💗</h3>
+  <h3>Jerly404</h3>
 </div>
 
