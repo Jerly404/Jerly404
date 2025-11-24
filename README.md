@@ -1,180 +1,101 @@
-# 🌸✨ Project: Neon Sakura ✨🌸
-*Beautiful code is art.*
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-This project merges modern software technologies with a futuristic neon–pink Japanese aesthetic — cyber–Tokyo vibes, high–performance backend, and visually stunning UI.
+###
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jerly404.jerly404&left_color=hotpink&right_color=black"  />
+</div>
 
-## 🎨 Visual style & Branding
+###
 
-### 🎀 Neon-Pink Palette  
-- `#FF4DD8` — Neon Sakura Pink  
-- `#FF91F7` — Soft Neon Pink  
-- `#0A0014` — Tokyo Midnight Background  
-- `#12F7FF` — Electric Cyan  
-- `#FFE4FA` — Pale Sakura Glow
-
-### ✍️ Typography (Japanese cursive inspired)  
-- Noto Sans JP  
-- Zen Kurenaido  
-- Kaushan Script  
-- Allura  
+<h1 align="center">こんにちは — I am Jerly 😎</h1>
+<h3 align="center">Software & Systems Engineering Student — Perú 🇵🇪</h3>
+<h4 align="center">Linux · Backend · Cybersecurity · Networking</h4>
 
 ---
 
-## 🏗️ Architecture Overview
+## 👨🏻‍💻 About Me
+I am a systems engineering student with interest in backend development, networking, operating systems, and high–performance clean code. I prefer a direct, technical, problem–solving approach.
 
-**Total Stack**  
-✔ Frontend: Angular + React  
-✔ Backend: C# (.NET) + Go + Node  
-✔ Database: MySQL  
-✔ Optional: PostgreSQL  
-✔ Mobile: Capacitor / Ionic  
-✔ API: REST + JWT  
-✔ Deployment: Docker + Nginx  
-
----
-
-## 👨🏻‍💻 Known Technologies & Skills
-
-| Area | Skill | Level |
-|------|-------|-------|
-| Angular | CLI, Routing, RxJS | 🔥🔥🔥 |
-| React | Hooks, Context | 🔥🔥 |
-| Go | APIs & concurrency | 🔥🔥 |
-| C# | Entity Framework, LINQ | 🔥🔥🔥 |
-| Lua | scripting | 🔥🔥 |
-| MySQL | schemas, joins | 🔥🔥🔥 |
-| Linux/Bash | admin | 🔥🔥🔥 |
-
----
-
-## 📂 Repository Structure
-
-/project-neon-sakura
-├─ frontend-angular/
-├─ frontend-react/
-├─ backend-dotnet/
-├─ backend-go/
-├─ db-mysql/
-├─ scripts/
-├─ docs/
-└─ README.md
+⚙️ Engineering Mindset
+🧠 Analytical & logical
+🧩 Efficient debugging & troubleshooting
+🔐 Interest in cybersecurity & networking
+🐧 Daily Linux user (Arch BTW 😏)
 
 
 ---
 
-## 🚀 Running the project
+## 🧠 Technical Skills
 
-### Backend (.NET)
-```bash
-cd backend-dotnet
-dotnet restore
-dotnet run
+### 🖥️ Frontend
 
-Backend (Go)
+Angular · React · TypeScript · JavaScript · Tailwind · HTML · CSS
 
-cd backend-go
-go run main.go
 
-Frontend (Angular)
+### 🛠 Backend
 
-cd frontend-angular
-npm install
-ng serve -o
+Spring Boot · Node.js · Express · Python · Go · C# (.NET) · Lua
 
-Frontend (React)
 
-cd frontend-react
-npm install
-npm start
+### 🗄 Databases
 
-Database (MySQL)
+MySQL · MariaDB · SQL Server · PostgreSQL · SQLite
 
-mysql -u root -p  
-source schema.sql;
 
-🧠 Features
+### 🧩 Networking / CCNA
 
-    JWT authentication
+VLAN · Subnetting · Routing · Switching · TCP/IP · OSI Model · ACLs
 
-    User roles & permissions
 
-    Full CRUD
+### 🐧 Linux / Terminal
 
-    Responsive UI
+Arch Linux · Ubuntu · bash · zsh · scripting · Neovim · Tmux
 
-    MySQL persistence
 
-    Cyber–Japan Neon theme
+### 🧪 DevOps / Infra (nivel base–medio)
 
-    Ready for Docker deployment
-
-🧩 Future Roadmap
-
-    Multi-language support JP / EN / ES
-
-    Internal chat system
-
-    WebSockets
-
-    Monitoring & logging
-
-    Dynamic neon/dark mode
-
-    AI form-autofill features
-
-🐉 Japanese Aesthetic Quotes
-
-    「桜の下でコードを書こう」
-    Write code beneath the cherry blossoms.
-
-    「静けさの中に光る力」
-    There is power in quiet light.
-
-    「我々は未来を開発している」
-    We are developing the future.
-
-❤️ Author
-
-Created with passion, insomnia, caffeine, and cyberpunk inspiration.
+Docker · Kubernetes · CI/CD · Git · Github · SSH · Nginx
 
 
 ---
 
-# ✅ 2) How to insert images in a README
+## 🛠 Technologies — icons
 
-## 📌 Method A: Using direct URLs (recommended)
-Example:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,neovim,arch,angular,react,ts,nodejs,py,go,dotnet,java,spring,mysql,postgres,redis,docker,kubernetes,git,github&theme=light" height="90" />
+</div>
 
-```md
-![Tokyo Neon](https://i.imgur.com/example.png)
+---
 
-Works with:
+## 📊 My Stats
 
-    GitHub
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jerly404&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-    Gitea
+---
 
-    Gitlab
+## 🕹 Contribution Game (PACMAN 😎)
 
-    VSCode preview
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-📌 Method B: Local images in the repo
+---
 
-Example:
+## 📫 Contact
 
-/imgs
-   tokyo.png
-   ui.png
-   logo.jpg
+Email: himer.condor@gmail.com
 
-Then in README:
 
-![UI Screenshot](./imgs/ui.png)
+---
 
-GitHub will display them correctly.
-📌 Method C: Using HTML for advanced control
-
-<img src="./imgs/ui.png" width="400px" style="border-radius:10px;">
+<div align="center">
+  <h3>Minimal. Technical. Pink–Neon. Masculine. — Jerly 💗</h3>
+</div>
 
