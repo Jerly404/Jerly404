@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Aspiring to become a Full Stack Developer. I'm from Perù</h3>
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
-🤔 I'm currently working on Kubernetes with edge computing.
+🤔 I'm currently working on Angular with edge computing.
 
 ✨ I study: React, Kubernetes, Nodejs, Bash, Linux
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## About me:
 - 😄 Fun fact: I'm a Linux fan
 - 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](https://gmail.com/himerjhelycondorluna@gmail,com)
+- 📫 How to reach me: [Email](https://mail.com/himerjhelycondorluna@gmail,com)
 - 💬 Ask me about `Frontend` or `Backend`
 
 
